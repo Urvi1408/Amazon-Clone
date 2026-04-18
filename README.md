@@ -40,13 +40,6 @@ Clone the repository and open `index.html` in your browser.
 - Replicating navigation and product sections  
 
 
-## 🚧 Future Improvements  
-- Add JavaScript for interactivity (carousel, dropdowns)  
-- Improve responsiveness for mobile devices  
-- Add product filtering and dynamic content  
-- Enhance UI with animations and transitions  
-
-
 ## 🎯 Inspiration  
 The design is inspired by Amazon’s user interface, which emphasizes  
 **simple navigation, structured layout, and personalized browsing experience** :contentReference[oaicite:0]{index=0}  
